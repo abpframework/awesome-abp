@@ -6,11 +6,11 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 
 - [Official Links](#official-links)
 - [Other Lists](#other-lists)
-- [Tutorials](#tutorials)
+- [Tutorials](#tutorials--articles)
 - [UI Themes](#ui-themes)
 - [Application Modules](#application-modules)
 - [Tools](#tools)
-- [Libraries](#libraries)
+- [NuGet / NPM Packages](#nuget--npm-packages)
 - [Video Trainings](#video-trainings)
 
 ## Official Links
