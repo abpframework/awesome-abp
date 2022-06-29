@@ -54,7 +54,11 @@ TODO...
 
 ### Official Themes
 
-TODO...
+* [Basic Theme](https://docs.abp.io/en/abp/latest/UI/AspNetCore/Basic-Theme): A minimalist theme that doesn't add any styling on top of the plain Bootstrap. You can take the Basic Theme as the base theme and build your own theme or styling on top of it.
+* [Lepton Theme](https://docs.abp.io/en/commercial/latest/themes/lepton): A professional UI theme with multiple color and style options.
+* [LeptonX Theme](https://x.leptontheme.com/): A modern, responsive and flexible UI theme. This is the recommended theme for new applications. It has two versions:
+  * [LeptonX Lite](https://docs.abp.io/en/abp/latest/Themes/LeptonXLite/AspNetCore): Free version with less features and options.
+  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/commercial/mvc): Full version with all the features and options.
 
 ### Community Themes
 
