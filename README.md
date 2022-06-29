@@ -32,7 +32,7 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 
 ## Other Lists
 
-* [Awesome ABP](https://github.com/EasyAbp/awesome-abp) (by EasyAbp Community)
+* [Awesome ABP](https://github.com/EasyAbp/awesome-abp) (by EasyAbp Community): A list of ABP related resources, just like this repository.
 
 ## Tutorials / Articles
 
@@ -42,7 +42,7 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 * [Quick Start](https://docs.abp.io/en/abp/latest/Tutorials/Todo/Overall): Get started with the ABP Framework and create a simple TODO application.
 * [Web Application Development](https://docs.abp.io/en/abp/latest/Tutorials/Part-1): 10-parts tutorial to create a full featured web application.
 
-### Community Articles
+### Community Posts
 
 See [community.abp.io/posts](https://community.abp.io/posts) for the latest articles posted by the core ABP Framework team and the ABP community.
 
@@ -62,14 +62,34 @@ TODO...
 
 ## Application Modules
 
+An application module provides a fully implemented application/business functionality, typically with its own entities, services, APIs and UI components.
+
 ### Open Source / Free Modules
 
-* [Blogging](https://commercial.abp.io/modules/Volo.Blogging): Create and manage your own blogs, like the [ABP blog](https://blog.abp.io/).
-* [Docs](https://commercial.abp.io/modules/Volo.Docs): Publish your technical documentation with a clean and professional UI, like the [ABP docs](https://docs.abp.io/).
+#### Official Open Source / Free Modules
 
-TODO...others
+These application modules are created and maintained by the core ABP team.
+
+* [Account](https://docs.abp.io/en/abp/latest/Modules/Account): Provides UI for the account management and allows user to login/register to the application.
+* [Audit Logging](https://docs.abp.io/en/abp/latest/Modules/Audit-Logging): Persists audit logs to a database.
+* [Background Jobs](https://docs.abp.io/en/abp/latest/Modules/Background-Jobs): Persist background jobs when using the default background job manager.
+* [Blogging](https://commercial.abp.io/modules/Volo.Blogging): Create and manage your own blogs (Not developed anymore, use the [CMS Kit](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Index) [blogging feature](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Blogging) instead).
+* [CMS Kit](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Index): A set of reusable *Content Management System* features.
+* [Docs](https://docs.abp.io/en/abp/latest/Modules/Docs): Used to create technical documentation website. ABP's [own documentation](https://docs.abp.io/) already using this module.
+* [Feature Management](https://docs.abp.io/en/abp/latest/Modules/Feature-Management): Used to persist and manage the [features](https://docs.abp.io/en/abp/latest/Features).
+* [Identity](https://docs.abp.io/en/abp/latest/Modules/Identity): Manages organization units, roles, users and their permissions, based on the Microsoft Identity library.
+* [IdentityServer](https://docs.abp.io/en/abp/latest/Modules/IdentityServer): Integrates to IdentityServer4.
+* [Permission Management](https://docs.abp.io/en/abp/latest/Modules/Permission-Management): Used to persist permissions.
+* [Setting Management](https://docs.abp.io/en/abp/latest/Modules/Setting-Management): Used to persist and manage the [settings](https://docs.abp.io/en/abp/latest/Settings).
+* [Tenant Management](https://docs.abp.io/en/abp/latest/Modules/Tenant-Management): Manages tenants for a [multi-tenant](https://docs.abp.io/en/abp/latest/Multi-Tenancy) application.
+
+#### Community Modules
+
+TODO...
 
 ### Commercial Modules
+
+#### Official Commercial Modules
 
 * [Account](https://commercial.abp.io/modules/Volo.Account.Pro): Login, register, forgot password, email activation, social logins and other account related functionalities.
 * [Audit Logging](https://commercial.abp.io/modules/Volo.AuditLogging.Ui): Reporting the user audit logs and entity histories in details.
@@ -93,11 +113,11 @@ TODO...others
 
 ## NuGet / NPM Packages
 
-* [All official packages](https://abp.io/packages)
+* [All the official NuGet and NMP packages](https://abp.io/packages)
 
 ## Video Trainings
 
-Check **[community.abp.io](https://community.abp.io/)** website for the latest articles and video posts for ABP and .NET. Here, we list some of the posts published there and other platforms.
+Check **[community.abp.io](https://community.abp.io/)** website for the latest video posts for ABP and .NET. Here, we list some of the posts published there and other platforms.
 
 ### English
 
