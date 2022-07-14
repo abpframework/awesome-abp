@@ -1,3 +1,5 @@
+English｜[简体中文](https://github.com/abpframework/awesome-abp/blob/main/README.zh-Hans.md)
+
 # Awesome ABP!
 
 A categorized list of [ABP Framework](https://github.com/abpframework/abp) related resources.
