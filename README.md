@@ -48,10 +48,6 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 
 See [community.abp.io/posts](https://community.abp.io/posts) for the latest articles posted by the core ABP Framework team and the ABP community.
 
-### Other Tutorials
-
-TODO...
-
 ## UI Themes
 
 ### Official Themes
@@ -61,10 +57,6 @@ TODO...
 * [LeptonX Theme](https://x.leptontheme.com/): A modern, responsive and flexible UI theme. This is the recommended theme for new applications. It has two versions:
   * [LeptonX Lite](https://docs.abp.io/en/abp/latest/Themes/LeptonXLite/AspNetCore): Free version with less features and options.
   * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/commercial/mvc): Full version with all the features and options.
-
-### Community Themes
-
-TODO...
 
 ## Application Modules
 
@@ -88,10 +80,6 @@ These application modules are created and maintained by the core ABP team.
 * [Permission Management](https://docs.abp.io/en/abp/latest/Modules/Permission-Management): Used to persist permissions.
 * [Setting Management](https://docs.abp.io/en/abp/latest/Modules/Setting-Management): Used to persist and manage the [settings](https://docs.abp.io/en/abp/latest/Settings).
 * [Tenant Management](https://docs.abp.io/en/abp/latest/Modules/Tenant-Management): Manages tenants for a [multi-tenant](https://docs.abp.io/en/abp/latest/Multi-Tenancy) application.
-
-#### Community Modules
-
-TODO...
 
 ### Commercial Modules
 
