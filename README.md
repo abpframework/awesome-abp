@@ -56,7 +56,7 @@ See [community.abp.io/posts](https://community.abp.io/posts) for the latest arti
 * [Lepton Theme](https://docs.abp.io/en/commercial/latest/themes/lepton): A professional UI theme with multiple color and style options.
 * [LeptonX Theme](https://x.leptontheme.com/): A modern, responsive and flexible UI theme. This is the recommended theme for new applications. It has two versions:
   * [LeptonX Lite](https://docs.abp.io/en/abp/latest/Themes/LeptonXLite/AspNetCore): Free version with less features and options.
-  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/commercial/mvc): Full version with all the features and options.
+  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/mvc): Full version with all the features and options.
 
 ## Application Modules
 

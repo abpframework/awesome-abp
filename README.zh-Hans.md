@@ -77,7 +77,7 @@
 * [Lepton Theme](https://docs.abp.io/en/commercial/latest/themes/lepton): 一个专业的UI主题，有多种颜色和风格选项.
 * [LeptonX Theme](https://x.leptontheme.com/): 一个现代的、响应式的、灵活的UI主题，新的应用程序推荐使用这个主题。它有两个版本：
   * [LeptonX Lite](https://docs.abp.io/en/abp/latest/Themes/LeptonXLite/AspNetCore): 免费版缺少一些高级功能和配置选项
-  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/commercial/mvc): 具有所有功能和配置选项的完整版本
+  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/mvc): 具有所有功能和配置选项的完整版本
 
 ### 2、社区开源主题
 
