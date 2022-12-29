@@ -77,6 +77,7 @@ These application modules are created and maintained by the core ABP team.
 * [Feature Management](https://docs.abp.io/en/abp/latest/Modules/Feature-Management): Used to persist and manage the [features](https://docs.abp.io/en/abp/latest/Features).
 * [Identity](https://docs.abp.io/en/abp/latest/Modules/Identity): Manages organization units, roles, users and their permissions, based on the Microsoft Identity library.
 * [IdentityServer](https://docs.abp.io/en/abp/latest/Modules/IdentityServer): Integrates to IdentityServer4.
+* [OpenIddict](https://docs.abp.io/en/abp/latest/Modules/OpenIddict): Integrates to OpenIddict.
 * [Permission Management](https://docs.abp.io/en/abp/latest/Modules/Permission-Management): Used to persist permissions.
 * [Setting Management](https://docs.abp.io/en/abp/latest/Modules/Setting-Management): Used to persist and manage the [settings](https://docs.abp.io/en/abp/latest/Settings).
 * [Tenant Management](https://docs.abp.io/en/abp/latest/Modules/Tenant-Management): Manages tenants for a [multi-tenant](https://docs.abp.io/en/abp/latest/Multi-Tenancy) application.
