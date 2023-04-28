@@ -1,4 +1,4 @@
-English｜[简体中文](https://github.com/abpframework/awesome-abp/blob/main/README.zh-Hans.md)
+English｜[简体中文](README.zh-Hans.md) | [Türkçe](README.tr.md)
 
 # Awesome ABP!
 
@@ -108,7 +108,7 @@ These application modules are created and maintained by the core ABP team.
 
 ## NuGet / NPM Packages
 
-* [All the official NuGet and NMP packages](https://abp.io/packages)
+* [All the official NuGet and NPM packages](https://abp.io/packages)
 
 ## Video Trainings
 
