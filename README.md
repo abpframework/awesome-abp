@@ -9,6 +9,7 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 - [Official Links](#official-links)
 - [Other Lists](#other-lists)
 - [Tutorials](#tutorials--articles)
+- [Events](#events)
 - [UI Themes](#ui-themes)
 - [Application Modules](#application-modules)
 - [Tools](#tools)
@@ -47,6 +48,15 @@ A categorized list of [ABP Framework](https://github.com/abpframework/abp) relat
 ### Community Posts
 
 See [community.abp.io/posts](https://community.abp.io/posts) for the latest articles posted by the core ABP Framework team and the ABP community.
+
+## Events
+
+You can check the following list for the online events, demos, and Q&A sessions organized by the ABP team:
+
+* [ABP Community Talks](https://www.youtube.com/playlist?list=PLsNclT2aHJcOsPustEkzG6DywiO8eh0lB)
+* [ABP .NET Conference 2023](https://www.youtube.com/playlist?list=PLsNclT2aHJcPTA3D4fIF10fsbhbckEbBC)
+
+> Don't forget to subscribe to [our YouTube channel](https://www.youtube.com/c/Volosoft) to inform what's new in ABP!
 
 ## UI Themes
 

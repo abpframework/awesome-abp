@@ -9,6 +9,7 @@
 - [Resmi Bağlantılar](#resmi-bağlantılar)
 - [Diğer Listeler](#diğer-listeler)
 - [Öğreticiler / Makaleler](#öğreticiler--makaleler)
+- [Etkinlikler](#etkinlikler)
 - [Temalar](#temalar)
 - [Uygulama Modülleri](#uygulama-modülleri)
 - [Araçlar](#araçlar)
@@ -47,6 +48,15 @@
 ### Topluluk Gönderileri
 
 ABP Framework takımı ve ABP topluluğu tarafından yayınlanan en son makaleleri görmek için [community.abp.io/posts](https://community.abp.io/posts) adresini ziyaret edin.
+
+## Etkinlikler
+
+ABP ekibi tarafından düzenlenen çevrimiçi etkinlikler, demolar ve soruc-cevap oturumları için aşağıdaki listeye göz atabilirsiniz:
+
+* [ABP Community Talks](https://www.youtube.com/playlist?list=PLsNclT2aHJcOsPustEkzG6DywiO8eh0lB)
+* [ABP .NET Conference 2023](https://www.youtube.com/playlist?list=PLsNclT2aHJcPTA3D4fIF10fsbhbckEbBC)
+
+> ABP'deki yeniliklerden haberdar olmak için [YouTube kanalımıza](https://www.youtube.com/c/Volosoft) abone olmayı unutmayın!
 
 ## Temalar
 
