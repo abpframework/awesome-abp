@@ -6,15 +6,29 @@
 
 ## İçindekiler
 
-- [Resmi Bağlantılar](#resmi-bağlantılar)
-- [Diğer Listeler](#diğer-listeler)
-- [Öğreticiler / Makaleler](#öğreticiler--makaleler)
-- [Etkinlikler](#etkinlikler)
-- [Temalar](#temalar)
-- [Uygulama Modülleri](#uygulama-modülleri)
-- [Araçlar](#araçlar)
-- [NuGet / NPM Paketleri](#nuget--npm-paketleri)
-- [Video Eğitimler](#video-eğitimler)
+- [Awesome ABP!](#awesome-abp)
+  - [İçindekiler](#i̇çindekiler)
+  - [Resmi Bağlantılar](#resmi-bağlantılar)
+    - [Resmi web-siteleri](#resmi-web-siteleri)
+    - [Diğer resmi bağlantılar](#diğer-resmi-bağlantılar)
+  - [Diğer Listeler](#diğer-listeler)
+  - [Öğreticiler / Makaleler](#öğreticiler--makaleler)
+    - [Resmi Öğreticiler](#resmi-öğreticiler)
+    - [Topluluk Gönderileri](#topluluk-gönderileri)
+  - [Etkinlikler](#etkinlikler)
+  - [Temalar](#temalar)
+    - [Resmi Temalar](#resmi-temalar)
+  - [Uygulama Modülleri](#uygulama-modülleri)
+    - [Açık Kaynak / Ücretsiz Modüller](#açık-kaynak--ücretsiz-modüller)
+      - [Resmi Açık Kaynak / Ücretsiz Modüller](#resmi-açık-kaynak--ücretsiz-modüller)
+    - [Commercial Modülleri](#commercial-modülleri)
+      - [Resmi Commercial Modülleri](#resmi-commercial-modülleri)
+  - [Araçlar](#araçlar)
+  - [NuGet / NPM Paketleri](#nuget--npm-paketleri)
+  - [Video Eğitimler](#video-eğitimler)
+    - [İngilizce](#i̇ngilizce)
+    - [İngilizce Dışındaki Eğitimler](#i̇ngilizce-dışındaki-eğitimler)
+      - [Türkçe (Turkish)](#türkçe-turkish)
 
 ## Resmi Bağlantılar
 
@@ -115,6 +129,7 @@ Bu uygulama modülleri, ABP ekibi tarafından oluşturulur ve sürdülür.
 
 * [ABP CLI](https://docs.abp.io/en/abp/latest/CLI): ABP Framework için resmi CLI.
 * [ABP Suite](https://commercial.abp.io/tools/suite): Tam katmanlı CRUD sayfalarını otomatik olarak oluşturmak, uygulama modüllerinin kaynağını yüklemek ve indirmek için kullanılan bir araçtır. Bu araç, [ABP Commercial'ın](https://commercial.abp.io/) bir parçasıdır.
+* [AbpDevTools](https://github.com/enisn/AbpDevTools): ABP ile geliştirmeyi kolaylaştırmak için bir dizi araç içeren bir CLI uygulaması.
 
 ## NuGet / NPM Paketleri
 
