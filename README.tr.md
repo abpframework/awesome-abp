@@ -6,29 +6,15 @@
 
 ## İçindekiler
 
-- [Awesome ABP!](#awesome-abp)
-  - [İçindekiler](#i̇çindekiler)
-  - [Resmi Bağlantılar](#resmi-bağlantılar)
-    - [Resmi web-siteleri](#resmi-web-siteleri)
-    - [Diğer resmi bağlantılar](#diğer-resmi-bağlantılar)
-  - [Diğer Listeler](#diğer-listeler)
-  - [Öğreticiler / Makaleler](#öğreticiler--makaleler)
-    - [Resmi Öğreticiler](#resmi-öğreticiler)
-    - [Topluluk Gönderileri](#topluluk-gönderileri)
-  - [Etkinlikler](#etkinlikler)
-  - [Temalar](#temalar)
-    - [Resmi Temalar](#resmi-temalar)
-  - [Uygulama Modülleri](#uygulama-modülleri)
-    - [Açık Kaynak / Ücretsiz Modüller](#açık-kaynak--ücretsiz-modüller)
-      - [Resmi Açık Kaynak / Ücretsiz Modüller](#resmi-açık-kaynak--ücretsiz-modüller)
-    - [Commercial Modülleri](#commercial-modülleri)
-      - [Resmi Commercial Modülleri](#resmi-commercial-modülleri)
-  - [Araçlar](#araçlar)
-  - [NuGet / NPM Paketleri](#nuget--npm-paketleri)
-  - [Video Eğitimler](#video-eğitimler)
-    - [İngilizce](#i̇ngilizce)
-    - [İngilizce Dışındaki Eğitimler](#i̇ngilizce-dışındaki-eğitimler)
-      - [Türkçe (Turkish)](#türkçe-turkish)
+- [Resmi Bağlantılar](#resmi-bağlantılar)
+- [Diğer Listeler](#diğer-listeler)
+- [Öğreticiler / Makaleler](#öğreticiler--makaleler)
+- [Etkinlikler](#etkinlikler)
+- [Temalar](#temalar)
+- [Uygulama Modülleri](#uygulama-modülleri)
+- [Araçlar](#araçlar)
+- [NuGet / NPM Paketleri](#nuget--npm-paketleri)
+- [Video Eğitimler](#video-eğitimler)
 
 ## Resmi Bağlantılar
 
