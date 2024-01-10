@@ -115,6 +115,7 @@ Bu uygulama modülleri, ABP ekibi tarafından oluşturulur ve sürdülür.
 
 * [ABP CLI](https://docs.abp.io/en/abp/latest/CLI): ABP Framework için resmi CLI.
 * [ABP Suite](https://commercial.abp.io/tools/suite): Tam katmanlı CRUD sayfalarını otomatik olarak oluşturmak, uygulama modüllerinin kaynağını yüklemek ve indirmek için kullanılan bir araçtır. Bu araç, [ABP Commercial'ın](https://commercial.abp.io/) bir parçasıdır.
+* [ABP Studio](https://commercial.abp.io/studio): ABP Studio, sıklıkla yapılan işleri otomatikleştirerek, çözümünüz hakkında bilgiler sağlayan, çözümlerinizi geliştirmeyi, çalıştırmayı ve dağıtmayı çok daha kolay hale getirerek sizin için rahat bir geliştirme ortamı sağlamayı amaçlayan, cross-platform bir masaüstü uygulamasıdır. Bu araç, [ABP Commercial'ın](https://commercial.abp.io/) bir parçasıdır.
 * [AbpDevTools](https://github.com/enisn/AbpDevTools): ABP ile geliştirmeyi kolaylaştırmak için bir dizi araç içeren bir CLI uygulaması.
 
 ## NuGet / NPM Paketleri

@@ -133,8 +133,9 @@
 
 * [ABP CLI](https://docs.abp.io/zh-Hans/abp/latest/CLI): ABP框架的官方CLI.
 * [ABP Suite](https://commercial.abp.io/tools/suite): 自动生成基于分层结构的CRUD页面工具，并且安装和下载应用模块的源代码. 这个工具属于 [ABP商业版](https://commercial.abp.io/) 的一部分.
-* * [AbpDevTools](https://github.com/enisn/AbpDevTools): 非官方的 CLI 应用程序，包含一组使 ABP 开发变得更容易的工具。
-* 
+* [ABP Studio](https://commercial.abp.io/studio): ABP Studio 是一个跨平台桌面应用程序，旨在通过自动化为您提供舒适的开发环境，提供有关您的解决方案的见解，使开发、运行和部署您的解决方案变得更加容易。这个工具属于 [ABP商业版](https://commercial.abp.io/) 的一部分.
+* [AbpDevTools](https://github.com/enisn/AbpDevTools): 非官方的 CLI 应用程序，包含一组使 ABP 开发变得更容易的工具。
+
 ## 七、NuGet / NPM 软件包
 
 * [所有官方NuGet和NMP软件包](https://abp.io/packages)
