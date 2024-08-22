@@ -2,7 +2,7 @@
 
 # Awesome ABP!
 
-[ABP Framework](https://github.com/abpframework/abp) ile ilgili kaynakların kategorize edilmiş bir listesi.
+[ABP](https://github.com/abpframework/abp) ile ilgili kaynakların kategorize edilmiş bir listesi.
 
 ## İçindekiler
 
@@ -20,11 +20,10 @@
 
 ### Resmi web-siteleri
 
-* **[abp.io](https://abp.io/)** (anasayfa)
-* **[docs.abp.io](https://docs.abp.io/)** (dökümantasyon)
-* **[community.abp.io](https://community.abp.io/)** (ABP ve .NET ile ilgili gönderiler ve etkinlikler)
-* **[blog.abp.io](https://blog.abp.io/)** (en son haberler ve sürümler için resmi blog)
-* **[commercial.abp.io](https://commercial.abp.io/)** (ABP Commercial başlangıç şablonları (startup templates), UI temaları, uygulama modülleri, araçlar ve destek)
+* **[abp.io](https://abp.io/)** (ABP Platform'u için anasayfa - ücretli başlangıç şablonları, özellikleri, modülleri, araçları ve desteği içerir -)
+* **[abp.io/docs](https://abp.io/docs/latest/)** (dökümantasyon)
+* **[abp.io/community](https://abp.io/community/)** (ABP ve .NET ile ilgili gönderiler ve etkinlikler)
+* **[abp.io/blog](https://abp.io/blog/)** (en son haberler ve sürümler için resmi blog)
 
 ### Diğer resmi bağlantılar
 
@@ -41,13 +40,13 @@
 
 ### Resmi Öğreticiler
 
-* [Başlarken](https://docs.abp.io/en/abp/latest/Getting-Started): ABP Framework ile bir uygulama oluşturun ve geliştirmeye başlayın.
-* [Hızlı Başlangıç](https://docs.abp.io/en/abp/latest/Tutorials/Todo/Overall): ABP Framework kullanmaya başlayın ve basit bir TODO uygulaması oluşturun.
-* [Web Uygulama Geliştirme](https://docs.abp.io/en/abp/latest/Tutorials/Part-1): Tam özellikli bir web uygulaması oluşturmak için 10 bölümlük bir eğitim serisi.
+* [Başlarken](https://abp.io/docs/latest/get-started/layered-web-application): ABP ile bir uygulama oluşturun ve geliştirmeye başlayın.
+* [Hızlı Başlangıç](https://abp.io/docs/latest/tutorials/todo): ABP kullanmaya başlayın ve basit bir TODO uygulaması oluşturun.
+* [Web Uygulama Geliştirme](https://abp.io/docs/latest/tutorials/book-store/part-01): Tam özellikli bir web uygulaması oluşturmak için 10 bölümlük bir eğitim serisi.
 
 ### Topluluk Gönderileri
 
-ABP Framework takımı ve ABP topluluğu tarafından yayınlanan en son makaleleri görmek için [community.abp.io/posts](https://community.abp.io/posts) adresini ziyaret edin.
+ABP takımı ve ABP topluluğu tarafından yayınlanan en son makaleleri görmek için [abp.io/community/articles](https://abp.io/community/articles) adresini ziyaret edin.
 
 ## Etkinlikler
 
@@ -55,6 +54,7 @@ ABP ekibi tarafından düzenlenen çevrimiçi etkinlikler, demolar ve soruc-ceva
 
 * [ABP Community Talks](https://www.youtube.com/playlist?list=PLsNclT2aHJcOsPustEkzG6DywiO8eh0lB)
 * [ABP .NET Conference 2023](https://www.youtube.com/playlist?list=PLsNclT2aHJcPTA3D4fIF10fsbhbckEbBC)
+* [ABP Dotnet Conference 2024](https://www.youtube.com/playlist?list=PLsNclT2aHJcNbSrRbO4K36Pm0Pa8MDC-A)
 
 > ABP'deki yeniliklerden haberdar olmak için [YouTube kanalımıza](https://www.youtube.com/c/Volosoft) abone olmayı unutmayın!
 
@@ -62,11 +62,11 @@ ABP ekibi tarafından düzenlenen çevrimiçi etkinlikler, demolar ve soruc-ceva
 
 ### Resmi Temalar
 
-* [Basic Theme](https://docs.abp.io/en/abp/latest/UI/AspNetCore/Basic-Theme): Bootstrap ile oluşturulmuş minimalist bir tema. Basic Theme üzerine kendi temanızı ve stilinizi oluşturabilirsiniz.
-* [Lepton Theme](https://docs.abp.io/en/commercial/latest/themes/lepton): Birden çok renk ve stil seçeneğine sahip profesyonel bir UI teması.
+* [Basic Theme](https://abp.io/docs/latest/framework/ui/mvc-razor-pages/basic-theme): Bootstrap ile oluşturulmuş minimalist bir tema. Basic Theme üzerine kendi temanızı ve stilinizi oluşturabilirsiniz.
+* [Lepton Theme](https://abp.io/docs/latest/ui-themes/lepton): Birden çok renk ve stil seçeneğine sahip profesyonel bir UI teması.
 * [LeptonX Theme](https://x.leptontheme.com/): Modern, responsive ve esnek bir UI teması. Yeni uygulamalar için önerilen temadır. İki versiyonu vardı:
-  * [LeptonX Lite](https://docs.abp.io/en/abp/latest/Themes/LeptonXLite/AspNetCore): Daha az özellik ve seçeneğe sahip ücretsiz sürüm.
-  * [LeptonX](https://docs.abp.io/en/commercial/latest/themes/lepton-x/mvc): Tüm özellikler ve seçeneklerle birlikte tam sürüm.
+  * [LeptonX Lite](https://abp.io/docs/latest/ui-themes/lepton-x-lite/asp-net-core): Daha az özellik ve seçeneğe sahip ücretsiz sürüm.
+  * [LeptonX](https://abp.io/docs/latest/ui-themes/lepton-x/mvc): Tüm özellikler ve seçeneklerle birlikte tam sürüm.
 
 ## Uygulama Modülleri
 
@@ -78,44 +78,44 @@ Bir uygulama modülü, genellikle kendi entityleri, servisleri, API'leri ve UI b
 
 Bu uygulama modülleri, ABP ekibi tarafından oluşturulur ve sürdülür.
 
-* [Account](https://docs.abp.io/en/abp/latest/Modules/Account): Hesap yönetimi için kullanıcı arabirimi sağlar ve kullanıcının uygulamada oturum açmasına/kayıt olmasına izin verir.
-* [Audit Logging](https://docs.abp.io/en/abp/latest/Modules/Audit-Logging): Denetim günlüklerini (audit-logs) bir veritabanında saklar.
-* [Background Jobs](https://docs.abp.io/en/abp/latest/Modules/Background-Jobs): Arka planda işlemler gerçekleştirirken, bunları veritabanında saklayın ve yönetin.
-* [Blogging](https://commercial.abp.io/modules/Volo.Blogging): Kendi bloglarınızı oluşturun ve yönetin (Artık geliştirilmiyor, bunun yerine [CMS Kit modülünün](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Index) [blogging özelliğini](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Blogging) kullanın).
-* [CMS Kit](https://docs.abp.io/en/abp/latest/Modules/Cms-Kit/Index): Yeniden kullanılabilir *İçerik Yönetim Sistemi* özellikleri sağlar.
-* [Docs](https://docs.abp.io/en/abp/latest/Modules/Docs): Teknik dokümantasyon web sitesi oluşturmak için kullanılır. Şuan ABP'nin [kendi dökümanları](https://docs.abp.io/) bu modülü kullanmaktadır. 
-* [Feature Management](https://docs.abp.io/en/abp/latest/Modules/Feature-Management): [Özellikleri](https://docs.abp.io/en/abp/latest/Features) sürdürmek ve yönetmek için kullanılır.
-* [Identity](https://docs.abp.io/en/abp/latest/Modules/Identity): Organizasyon birimlerini, rolleri, kullanıcıları ve bunların izinlerini Microsoft Identity kütüphanesine dayanarak yönetir.
-* [IdentityServer](https://docs.abp.io/en/abp/latest/Modules/IdentityServer): IdentityServer4 ile entegre olur.
-* [OpenIddict](https://docs.abp.io/en/abp/latest/Modules/OpenIddict): OpenIddict ile entegre olur.
-* [Permission Management](https://docs.abp.io/en/abp/latest/Modules/Permission-Management): İzinleri sürdürmek için kullanılır.
-* [Setting Management](https://docs.abp.io/en/abp/latest/Modules/Setting-Management): [Ayarları](https://docs.abp.io/en/abp/latest/Settings) sürdürmek ve yönetmek için kullanılır.
-* [Tenant Management](https://docs.abp.io/en/abp/latest/Modules/Tenant-Management): [Multi-tenant](https://docs.abp.io/en/abp/latest/Multi-Tenancy) bir uygulamadaki tenantları yönetmeyi sağlar.
+* [Account](https://abp.io/docs/latest/Modules/Account): Hesap yönetimi için kullanıcı arabirimi sağlar ve kullanıcının uygulamada oturum açmasına/kayıt olmasına izin verir.
+* [Audit Logging](https://abp.io/docs/latest/Modules/Audit-Logging): Denetim günlüklerini (audit-logs) bir veritabanında saklar.
+* [Background Jobs](https://abp.io/docs/latest/Modules/Background-Jobs): Arka planda işlemler gerçekleştirirken, bunları veritabanında saklayın ve yönetin.
+* [Blogging](https://abp.io/modules/Volo.Blogging): Kendi bloglarınızı oluşturun ve yönetin (Artık geliştirilmiyor, bunun yerine [CMS Kit modülünün](https://abp.io/docs/latest/Modules/Cms-Kit/Index) [blogging özelliğini](https://abp.io/docs/latest/Modules/Cms-Kit/Blogging) kullanın).
+* [CMS Kit](https://abp.io/docs/latest/Modules/Cms-Kit/Index): Yeniden kullanılabilir *İçerik Yönetim Sistemi* özellikleri sağlar.
+* [Docs](https://abp.io/docs/latest/Modules/Docs): Teknik dokümantasyon web sitesi oluşturmak için kullanılır. Şuan ABP'nin [kendi dökümanları](https://abp.io/docs) bu modülü kullanmaktadır. 
+* [Feature Management](https://abp.io/docs/latest/Modules/Feature-Management): [Özellikleri](https://abp.io/docs/latest/framework/infrastructure/features) sürdürmek ve yönetmek için kullanılır.
+* [Identity](https://abp.io/docs/latest/Modules/Identity): Organizasyon birimlerini, rolleri, kullanıcıları ve bunların izinlerini Microsoft Identity kütüphanesine dayanarak yönetir.
+* [IdentityServer](https://abp.io/docs/latest/Modules/IdentityServer): IdentityServer4 ile entegre olur.
+* [OpenIddict](https://abp.io/docs/latest/Modules/OpenIddict): OpenIddict ile entegre olur.
+* [Permission Management](https://abp.io/docs/latest/Modules/Permission-Management): İzinleri sürdürmek için kullanılır.
+* [Setting Management](https://abp.io/docs/latest/Modules/Setting-Management): [Ayarları](https://abp.io/docs/latest/framework/infrastructure/Settings) sürdürmek ve yönetmek için kullanılır.
+* [Tenant Management](https://abp.io/docs/latest/Modules/Tenant-Management): [Multi-tenant](https://abp.io/docs/latest/framework/architecture/multi-tenancy) bir uygulamadaki tenantları yönetmeyi sağlar.
 
-### Commercial Modülleri
+### Commercial Modüller
 
-#### Resmi Commercial Modülleri
+#### Resmi Commercial Modüller
 
-* [Account](https://commercial.abp.io/modules/Volo.Account.Pro): Giriş, kayıt, şifremi unuttum, e-posta aktivasyonu, sosyal girişler ve hesapla ilgili diğer işlevleri sağlar.
-* [Audit Logging](https://commercial.abp.io/modules/Volo.AuditLogging.Ui): Kullanıcı denetleme günlüklerinin ve varlık geçmişlerinin ayrıntılı olarak raporlanması.
-* [Chat](https://commercial.abp.io/modules/Volo.Chat): Kullanıcılar arasında gerçek zamanlı mesajlaşma.
-* [CMS Kit](https://commercial.abp.io/modules/Volo.CmsKit.Pro): Kendi *İçerik Yönetim Sisteminizi* oluşturmak için yardımcı olur.
-* [File Management](https://commercial.abp.io/modules/Volo.FileManagement): Dosyaları hiyerarşik bir klasör yapısında yükleyin, indirin ve düzenleyin.
-* [Forms](https://commercial.abp.io/modules/Volo.Forms): Kullanıcılarınız için formlar ve anketler oluşturun.
-* [GDPR](https://commercial.abp.io/modules/Volo.Gdpr): Kullanıcıların, uygulama tarafından toplanan kişisel verilerini indirmelerine ve silmelerine izin verir.
-* [Identity](https://commercial.abp.io/modules/Volo.Identity.Pro): Kullanıcı, rol, organizasyon birimi ve izin yönetimi.
-* [Identity Server UI](https://commercial.abp.io/modules/Volo.Identityserver.Ui): İstemciler, API kaynakları, kimlik kaynakları, sırlar, uygulama URL'leri, talepler ve daha fazlası gibi kimlik sunucusu nesnelerini yönetme.
-* [Language Management](https://commercial.abp.io/modules/Volo.LanguageManagement): Dilleri ekleyin veya kaldırın ve uygulama kullanıcı arabirimini anında yerelleştirin.
-* [Payment](https://commercial.abp.io/modules/Volo.Payment): Çeşitli ödeme ağ geçitleri için entegrasyon sağlar.
-* [SaaS](https://commercial.abp.io/modules/Volo.Saas): Multi-tenant / SaaS uygulamanızı oluşturmak için kiracıları, sürümleri ve özellikleri yönetin.
-* [Text Template Management](https://commercial.abp.io/modules/Volo.TextTemplateManagement): UI üzerinden metin/e-posta şablonlarını düzenleyin.
-* [Twilio SMS](https://commercial.abp.io/modules/Volo.Abp.Sms.Twilio): Twilio Cloud hizmeti üzerinden SMS gönderir.
+* [Account](https://abp.io/modules/Volo.Account.Pro): Giriş, kayıt, şifremi unuttum, e-posta aktivasyonu, sosyal girişler ve hesapla ilgili diğer işlevleri sağlar.
+* [Audit Logging](https://abp.io/modules/Volo.AuditLogging.Ui): Kullanıcı denetleme günlüklerinin ve varlık geçmişlerinin ayrıntılı olarak raporlanması.
+* [Chat](https://abp.io/modules/Volo.Chat): Kullanıcılar arasında gerçek zamanlı mesajlaşma.
+* [CMS Kit](https://abp.io/modules/Volo.CmsKit.Pro): Kendi *İçerik Yönetim Sisteminizi* oluşturmak için yardımcı olur.
+* [File Management](https://abp.io/modules/Volo.FileManagement): Dosyaları hiyerarşik bir klasör yapısında yükleyin, indirin ve düzenleyin.
+* [Forms](https://abp.io/modules/Volo.Forms): Kullanıcılarınız için formlar ve anketler oluşturun.
+* [GDPR](https://abp.io/modules/Volo.Gdpr): Kullanıcıların, uygulama tarafından toplanan kişisel verilerini indirmelerine ve silmelerine izin verir.
+* [Identity](https://abp.io/modules/Volo.Identity.Pro): Kullanıcı, rol, organizasyon birimi ve izin yönetimi.
+* [Identity Server UI](https://abp.io/modules/Volo.Identityserver.Ui): İstemciler, API kaynakları, kimlik kaynakları, sırlar, uygulama URL'leri, talepler ve daha fazlası gibi kimlik sunucusu nesnelerini yönetme.
+* [Language Management](https://abp.io/modules/Volo.LanguageManagement): Dilleri ekleyin veya kaldırın ve uygulama kullanıcı arabirimini anında yerelleştirin.
+* [Payment](https://abp.io/modules/Volo.Payment): Çeşitli ödeme ağ geçitleri için entegrasyon sağlar.
+* [SaaS](https://abp.io/modules/Volo.Saas): Multi-tenant / SaaS uygulamanızı oluşturmak için kiracıları, sürümleri ve özellikleri yönetin.
+* [Text Template Management](https://abp.io/modules/Volo.TextTemplateManagement): UI üzerinden metin/e-posta şablonlarını düzenleyin.
+* [Twilio SMS](https://abp.io/modules/Volo.Abp.Sms.Twilio): Twilio Cloud hizmeti üzerinden SMS gönderir.
 
 ## Araçlar
 
-* [ABP CLI](https://docs.abp.io/en/abp/latest/CLI): ABP Framework için resmi CLI.
-* [ABP Suite](https://commercial.abp.io/tools/suite): Tam katmanlı CRUD sayfalarını otomatik olarak oluşturmak, uygulama modüllerinin kaynağını yüklemek ve indirmek için kullanılan bir araçtır. Bu araç, [ABP Commercial'ın](https://commercial.abp.io/) bir parçasıdır.
-* [ABP Studio](https://commercial.abp.io/studio): ABP Studio, sıklıkla yapılan işleri otomatikleştirerek, çözümünüz hakkında bilgiler sağlayan, çözümlerinizi geliştirmeyi, çalıştırmayı ve dağıtmayı çok daha kolay hale getirerek sizin için rahat bir geliştirme ortamı sağlamayı amaçlayan, cross-platform bir masaüstü uygulamasıdır. Bu araç, [ABP Commercial'ın](https://commercial.abp.io/) bir parçasıdır.
+* [ABP CLI](https://abp.io/docs/latest/CLI): ABP için resmi CLI.
+* [ABP Suite](https://abp.io/suite): Tam katmanlı CRUD sayfalarını otomatik olarak oluşturmak, uygulama modüllerinin kaynağını yüklemek ve indirmek için kullanılan bir araçtır. Bu aracı sadece aktif lisans sahipleri kullanabilir.
+* [ABP Studio](https://abp.io/studio): ABP Studio, sıklıkla yapılan işleri otomatikleştirerek, çözümünüz hakkında bilgiler sağlayan, çözümlerinizi geliştirmeyi, çalıştırmayı ve dağıtmayı çok daha kolay hale getirerek sizin için rahat bir geliştirme ortamı sağlamayı amaçlayan, cross-platform bir masaüstü uygulamasıdır.
 * [AbpDevTools](https://github.com/enisn/AbpDevTools): ABP ile geliştirmeyi kolaylaştırmak için bir dizi araç içeren bir CLI uygulaması.
 
 ## NuGet / NPM Paketleri
@@ -124,11 +124,11 @@ Bu uygulama modülleri, ABP ekibi tarafından oluşturulur ve sürdülür.
 
 ## Video Eğitimler
 
-ABP ve .NET ile ilgili en son video gönderileri için **[community.abp.io](https://community.abp.io/)** web sitesini ziyaret edin. Bu websitesinde, ilgili websitesinde ve diğer kaynaklarda yayınlanan gönderileri görebilirsiniz.
+ABP ve .NET ile ilgili en son video gönderileri için **[abp.io/community](https://abp.io/community/)** web sitesini ziyaret edin. Bu websitesinde, ilgili websitesinde ve diğer kaynaklarda yayınlanan gönderileri görebilirsiniz.
 
 ### İngilizce
 
-* [.NET Microservices with ABP - Full Series](https://community.abp.io/posts/.net-microservice-with-abp-full-series-m6opqjb1)
+* [.NET Microservices with ABP - Full Series](https://abp.io/community/videos/.net-microservice-with-abp-full-series-m6opqjb1)
 
 ### İngilizce Dışındaki Eğitimler
 
