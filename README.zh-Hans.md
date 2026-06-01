@@ -15,18 +15,19 @@
     - [1、官方教程](#1官方教程)
     - [2、社区博文](#2社区博文)
     - [3、其他教程](#3其他教程)
-  - [四、UI主题](#四ui主题)
+  - [四、UI框架](#四ui框架)
+  - [五、UI主题](#五ui主题)
     - [1、官方主题](#1官方主题)
     - [2、社区开源主题](#2社区开源主题)
-  - [五、应用模块](#五应用模块)
+  - [六、应用模块](#六应用模块)
     - [1、开源/免费模块](#1开源免费模块)
       - [1.1、官方开源/免费模块](#11官方开源免费模块)
       - [1.2、社区开源模块](#12社区开源模块)
     - [2、商业化模块](#2商业化模块)
       - [2.1、官方商业化模块](#21官方商业化模块)
-  - [六、工具](#六工具)
-  - [七、NuGet / NPM 软件包](#七nuget--npm-软件包)
-  - [八、视频教程](#八视频教程)
+  - [七、工具](#七工具)
+  - [八、NuGet / NPM 软件包](#八nuget--npm-软件包)
+  - [九、视频教程](#九视频教程)
     - [1、英文版](#1英文版)
     - [2、其他语言](#2其他语言)
       - [2.1、Türkçe (土耳其语)](#21türkçe-土耳其语)
@@ -59,6 +60,9 @@
 * [Getting Started](https://abp.io/docs/latest/get-started/layered-web-application): 使用ABP框架创建一个脚手架应用以快速开始开发.
 * [Quick Start](https://abp.io/docs/latest/tutorials/todo): 开始使用ABP框架并创建一个简单的TODO应用程序.
 * [Web Application Development](https://abp.io/docs/latest/tutorials/book-store/part-01): 10步教你快速创建一个全功能的web应用程序.
+* [Modular CRM Application](https://abp.io/docs/latest/tutorials/modular-crm): 使用 ABP 构建模块化 CRM 应用程序.
+* [Microservice Solution](https://abp.io/docs/latest/tutorials/microservice): 学习如何创建和运行 ABP 微服务解决方案.
+* [Mobile Application Development](https://abp.io/docs/latest/tutorials/mobile): 使用 ABP 构建移动应用程序.
 
 ### 2、社区博文
 
@@ -68,7 +72,18 @@
 
 ​	TODO...
 
-## 四、UI主题
+## 四、UI框架
+
+> ABP 为 Web 和移动应用程序提供多个官方 UI 选项。React 是最新加入的 UI 选项，并通过 ABP Studio v3.0+ Modern Wizard 或 `abp new --modern` 在现代模板系统中使用。
+
+* [MVC / Razor Pages](https://abp.io/docs/latest/framework/ui/mvc-razor-pages/overall): 基于 ASP.NET Core 的服务端渲染 UI，支持 ABP 的模块化导航、主题、Tag Helper、动态 JavaScript 代理和 UI 自定义能力。
+* [Blazor](https://abp.io/docs/latest/framework/ui/blazor/overall): 基于 .NET 的 SPA UI，支持 WebAssembly、Server、Blazor WebApp 和 MAUI Blazor。
+* [Angular](https://abp.io/docs/latest/framework/ui/angular/overview): 基于 TypeScript 的 SPA UI，提供 ABP 后端集成、service proxy、authorization、localization、theming 和 customization 能力。
+* [React](https://abp.io/docs/latest/framework/ui/react): 基于 Vite、React、TanStack Router、TanStack Query、shadcn/ui 的现代模板 UI，并集成 ABP Admin Console。
+* [React Native](https://abp.io/docs/latest/framework/ui/react-native/index?LanguageCode=en): 与 ABP 后端集成的移动应用启动模板。
+* [MAUI](https://abp.io/docs/latest/framework/ui/maui/index): 与 ABP 后端集成的 .NET MAUI 移动应用模板。
+
+## 五、UI主题
 
 ### 1、官方主题
 
@@ -82,7 +97,7 @@
 
 ​	TODO...
 
-## 五、应用模块
+## 六、应用模块
 
 ​	一个应用模块提供一个完整的、独立实现的应用且包含业务功能，它们通常有自己的实体、服务、API和UI组件.
 
@@ -128,18 +143,20 @@
 * [Text Template Management](https://abp.io/modules/Volo.TextTemplateManagement): 提供一个用于管理文本或邮件模版的管理系统.
 * [Twilio SMS](https://abp.io/modules/Volo.Abp.Sms.Twilio): 通过Twilio云服务发送短信.
 
-## 六、工具
+## 七、工具
 
-* [ABP CLI](https://abp.io/docs/latest/CLI): ABP框架的官方CLI.
+* [ABP CLI](https://abp.io/docs/latest/CLI): ABP框架的官方CLI，支持通过 `--modern` 创建现代模板并使用 React UI.
 * [ABP Suite](https://abp.io/suite): 自动生成基于分层结构的CRUD页面工具，并且安装和下载应用模块的源代码. 这个工具属于 [ABP商业版](https://abp.io/) 的一部分.
-* [ABP Studio](https://abp.io/studio): ABP Studio 是一个跨平台桌面应用程序，旨在通过自动化为您提供舒适的开发环境，提供有关您的解决方案的见解，使开发、运行和部署您的解决方案变得更加容易。
+* [ABP Studio](https://abp.io/studio): ABP Studio 是一个跨平台桌面应用程序，将解决方案创建、开发、运行、监控、Git/GitHub 工作流、部署辅助和 ABP-aware 洞察整合到一个开发环境中。
+  * [Modern Wizard / Modern Templates](https://abp.io/docs/latest/framework/ui/react): 创建适合 AI-assisted 开发的 ABP 解决方案，使用 Vite、TanStack Router、TanStack Query、shadcn/ui、Tailwind CSS、Zod 和 React Hook Form 等流行的 React-first 技术栈，同时保留与 authentication、authorization、localization、multi-tenancy 和 Admin Console 等核心 ABP 概念及模块的内置集成。
+  * [ABP Studio AI Coding Agent](https://abp.io/studio/ai-agent): 集成在 ABP Studio 中的 ABP-aware 编码代理，提供 Ask、Plan 和 Agent 模式。它理解 ABP solution 结构，可结合 solution analysis、scoped build、run profile、runtime monitoring、日志、HTTP request、distributed event、custom workflow 以及 Git/GitHub 功能，帮助实现、调试和 review ABP 应用程序。
 * [AbpDevTools](https://github.com/enisn/AbpDevTools): 非官方的 CLI 应用程序，包含一组使 ABP 开发变得更容易的工具。
 
-## 七、NuGet / NPM 软件包
+## 八、NuGet / NPM 软件包
 
 * [所有官方NuGet和NMP软件包](https://abp.io/packages)
 
-## 八、视频教程
+## 九、视频教程
 
 ​	请查看 **[abp.io/community](https://abp.io/community)** 网站，了解我们在这里或者其他平台发表的ABP框架和.NET相关的最新视频帖子，以下罗列了部分视频资源：
 

@@ -10,6 +10,7 @@ A categorized list of [ABP](https://github.com/abpframework/abp) related resourc
 - [Other Lists](#other-lists)
 - [Tutorials](#tutorials--articles)
 - [Events](#events)
+- [UI Frameworks](#ui-frameworks)
 - [UI Themes](#ui-themes)
 - [Application Modules](#application-modules)
 - [Tools](#tools)
@@ -43,6 +44,9 @@ A categorized list of [ABP](https://github.com/abpframework/abp) related resourc
 * [Getting Started](https://abp.io/docs/latest/get-started/layered-web-application): Create an application with ABP and make it ready for development.
 * [Quick Start](https://abp.io/docs/latest/tutorials/todo): Get started with ABP and create a simple TODO application.
 * [Web Application Development](https://abp.io/docs/latest/tutorials/book-store/part-01): 10-parts tutorial to create a full featured web application.
+* [Modular CRM Application](https://abp.io/docs/latest/tutorials/modular-crm): Build a modular CRM application with ABP.
+* [Microservice Solution](https://abp.io/docs/latest/tutorials/microservice): Learn how to create and run an ABP microservice solution.
+* [Mobile Application Development](https://abp.io/docs/latest/tutorials/mobile): Build mobile applications with ABP.
 
 ### Community Posts
 
@@ -57,6 +61,17 @@ You can check the following list for the online events, demos, and Q&A sessions 
 * [ABP Dotnet Conference 2024](https://www.youtube.com/playlist?list=PLsNclT2aHJcNbSrRbO4K36Pm0Pa8MDC-A)
 
 > Don't forget to subscribe to [our YouTube channel](https://www.youtube.com/c/Volosoft) to inform what's new in ABP!
+
+## UI Frameworks
+
+> ABP supports multiple official UI options for web and mobile applications. React is the latest addition and is available through the modern template system with ABP Studio v3.0+ Modern Wizard or `abp new --modern`.
+
+* [MVC / Razor Pages](https://abp.io/docs/latest/framework/ui/mvc-razor-pages/overall): Server-rendered ASP.NET Core UI with ABP features like modular navigation, theming, tag helpers, dynamic JavaScript proxies and UI customization.
+* [Blazor](https://abp.io/docs/latest/framework/ui/blazor/overall): .NET-based SPA UI with WebAssembly, Server, Blazor WebApp and MAUI Blazor support.
+* [Angular](https://abp.io/docs/latest/framework/ui/angular/overview): TypeScript-based SPA UI with ABP backend integration, service proxies, authorization, localization, theming and customization features.
+* [React](https://abp.io/docs/latest/framework/ui/react): Modern template UI based on Vite, React, TanStack Router, TanStack Query, shadcn/ui and ABP Admin Console integration.
+* [React Native](https://abp.io/docs/latest/framework/ui/react-native/index?LanguageCode=en): Mobile startup template integrated with ABP-based backends.
+* [MAUI](https://abp.io/docs/latest/framework/ui/maui/index): .NET MAUI mobile template integrated with ABP-based backends.
 
 ## UI Themes
 
@@ -113,9 +128,11 @@ These application modules are created and maintained by the core ABP team.
 
 ## Tools
 
-* [ABP CLI](https://abp.io/docs/latest/CLI): Official CLI for the ABP Platform.
+* [ABP CLI](https://abp.io/docs/latest/CLI): Official CLI for the ABP Platform, including modern template creation with `--modern` and React UI support.
 * [ABP Suite](https://abp.io/suite): A tool to automatically generate fully layered CRUD-style pages, install and download source of the application modules. This tool can only be used by active license owners.
-* [ABP Studio](https://abp.io/studio): ABP Studio is a cross-platform desktop application that aims to provide a comfortable development environment for you by automating things, providing insights about your solution, making develop, run and deploy your solutions much easier.
+* [ABP Studio](https://abp.io/studio): ABP Studio is a cross-platform desktop application that brings solution creation, development, running, monitoring, Git/GitHub workflows, deployment helpers and ABP-aware insights into a single development environment.
+  * [Modern Wizard / Modern Templates](https://abp.io/docs/latest/framework/ui/react): Create AI-assisted development friendly ABP solutions with a popular React-first stack like Vite, TanStack Router, TanStack Query, shadcn/ui, Tailwind CSS, Zod and React Hook Form, while keeping built-in integration with core ABP concepts and modules such as authentication, authorization, localization, multi-tenancy and the Admin Console.
+  * [ABP Studio AI Coding Agent](https://abp.io/studio/ai-agent): ABP-aware coding agent built into ABP Studio with Ask, Plan and Agent modes. It understands ABP solution structure, uses solution analysis, can work with scoped builds, run profiles, runtime monitoring, logs, HTTP requests, distributed events, custom workflows and Git/GitHub features to help implement, debug and review ABP applications.
 * [AbpDevTools](https://github.com/enisn/AbpDevTools): Unofficial a CLI application that includes a set of tools to make development with ABP easier.
 
 ## NuGet / NPM Packages
