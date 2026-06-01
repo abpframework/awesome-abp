@@ -10,6 +10,7 @@
 - [Diğer Listeler](#diğer-listeler)
 - [Öğreticiler / Makaleler](#öğreticiler--makaleler)
 - [Etkinlikler](#etkinlikler)
+- [UI Frameworkleri](#ui-frameworkleri)
 - [Temalar](#temalar)
 - [Uygulama Modülleri](#uygulama-modülleri)
 - [Araçlar](#araçlar)
@@ -43,6 +44,9 @@
 * [Başlarken](https://abp.io/docs/latest/get-started/layered-web-application): ABP ile bir uygulama oluşturun ve geliştirmeye başlayın.
 * [Hızlı Başlangıç](https://abp.io/docs/latest/tutorials/todo): ABP kullanmaya başlayın ve basit bir TODO uygulaması oluşturun.
 * [Web Uygulama Geliştirme](https://abp.io/docs/latest/tutorials/book-store/part-01): Tam özellikli bir web uygulaması oluşturmak için 10 bölümlük bir eğitim serisi.
+* [Modüler CRM Uygulaması](https://abp.io/docs/latest/tutorials/modular-crm): ABP ile modüler bir CRM uygulaması oluşturun.
+* [Microservice Çözümü](https://abp.io/docs/latest/tutorials/microservice): ABP microservice çözümü oluşturmayı ve çalıştırmayı öğrenin.
+* [Mobil Uygulama Geliştirme](https://abp.io/docs/latest/tutorials/mobile): ABP ile mobil uygulamalar geliştirin.
 
 ### Topluluk Gönderileri
 
@@ -57,6 +61,17 @@ ABP ekibi tarafından düzenlenen çevrimiçi etkinlikler, demolar ve soruc-ceva
 * [ABP Dotnet Conference 2024](https://www.youtube.com/playlist?list=PLsNclT2aHJcNbSrRbO4K36Pm0Pa8MDC-A)
 
 > ABP'deki yeniliklerden haberdar olmak için [YouTube kanalımıza](https://www.youtube.com/c/Volosoft) abone olmayı unutmayın!
+
+## UI Frameworkleri
+
+> ABP, web ve mobil uygulamalar için birden fazla resmi UI seçeneğini destekler. React en yeni eklenen UI seçeneğidir ve ABP Studio v3.0+ Modern Wizard veya `abp new --modern` ile modern template sistemi üzerinden kullanılabilir.
+
+* [MVC / Razor Pages](https://abp.io/docs/latest/framework/ui/mvc-razor-pages/overall): Modüler navigation, theming, tag helper'lar, dynamic JavaScript proxy'ler ve UI customization gibi ABP özellikleriyle server-rendered ASP.NET Core UI.
+* [Blazor](https://abp.io/docs/latest/framework/ui/blazor/overall): WebAssembly, Server, Blazor WebApp ve MAUI Blazor desteğine sahip .NET tabanlı SPA UI.
+* [Angular](https://abp.io/docs/latest/framework/ui/angular/overview): ABP backend entegrasyonu, service proxy'ler, authorization, localization, theming ve customization özellikleri sunan TypeScript tabanlı SPA UI.
+* [React](https://abp.io/docs/latest/framework/ui/react): Vite, React, TanStack Router, TanStack Query, shadcn/ui ve ABP Admin Console entegrasyonunu kullanan modern template UI.
+* [React Native](https://abp.io/docs/latest/framework/ui/react-native/index?LanguageCode=en): ABP tabanlı backend'lerle entegre mobil başlangıç template'i.
+* [MAUI](https://abp.io/docs/latest/framework/ui/maui/index): ABP tabanlı backend'lerle entegre .NET MAUI mobil template'i.
 
 ## Temalar
 
@@ -113,9 +128,11 @@ Bu uygulama modülleri, ABP ekibi tarafından oluşturulur ve sürdülür.
 
 ## Araçlar
 
-* [ABP CLI](https://abp.io/docs/latest/CLI): ABP için resmi CLI.
+* [ABP CLI](https://abp.io/docs/latest/CLI): ABP için resmi CLI; `--modern` ile modern template oluşturmayı ve React UI desteğini içerir.
 * [ABP Suite](https://abp.io/suite): Tam katmanlı CRUD sayfalarını otomatik olarak oluşturmak, uygulama modüllerinin kaynağını yüklemek ve indirmek için kullanılan bir araçtır. Bu aracı sadece aktif lisans sahipleri kullanabilir.
-* [ABP Studio](https://abp.io/studio): ABP Studio, sıklıkla yapılan işleri otomatikleştirerek, çözümünüz hakkında bilgiler sağlayan, çözümlerinizi geliştirmeyi, çalıştırmayı ve dağıtmayı çok daha kolay hale getirerek sizin için rahat bir geliştirme ortamı sağlamayı amaçlayan, cross-platform bir masaüstü uygulamasıdır.
+* [ABP Studio](https://abp.io/studio): ABP Studio, çözüm oluşturma, geliştirme, çalıştırma, izleme, Git/GitHub iş akışları, dağıtım yardımcıları ve ABP-aware içgörüleri tek bir geliştirme ortamında birleştiren cross-platform bir masaüstü uygulamasıdır.
+  * [Modern Wizard / Modern Templates](https://abp.io/docs/latest/framework/ui/react): Vite, TanStack Router, TanStack Query, shadcn/ui, Tailwind CSS, Zod ve React Hook Form gibi popüler React-first teknolojilerle AI-assisted geliştirmeye uygun ABP çözümleri oluşturun; authentication, authorization, localization, multi-tenancy ve Admin Console gibi temel ABP kavramları ve modülleriyle hazır entegrasyonu koruyun.
+  * [ABP Studio AI Coding Agent](https://abp.io/studio/ai-agent): ABP Studio içinde yer alan Ask, Plan ve Agent modlarına sahip ABP-aware kodlama ajanı. ABP solution yapısını anlar; solution analysis, scoped build'ler, run profile'lar, runtime monitoring, loglar, HTTP request'leri, distributed event'ler, custom workflow'lar ve Git/GitHub özellikleriyle ABP uygulamalarını geliştirme, debug etme ve review etme süreçlerine yardımcı olur.
 * [AbpDevTools](https://github.com/enisn/AbpDevTools): ABP ile geliştirmeyi kolaylaştırmak için bir dizi araç içeren bir CLI uygulaması.
 
 ## NuGet / NPM Paketleri
